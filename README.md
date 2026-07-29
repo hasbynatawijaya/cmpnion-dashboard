@@ -8,6 +8,8 @@ Built as a take-home assignment. The visual language deliberately follows
 CMPNION's own product — a warm cream + sage-green operational console — rather
 than a generic dashboard template.
 
+**Live demo:** https://cmpnion-dashboard-umber.vercel.app
+
 ---
 
 ## Table of contents
